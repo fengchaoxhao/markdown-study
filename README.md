@@ -1,2 +1,2 @@
 # markdown-study
-:lion: Markdown 学习、联系
+:lion: Markdown 学习、练习
