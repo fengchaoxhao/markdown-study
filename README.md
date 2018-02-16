@@ -17,4 +17,5 @@
 >    2. [内部链接](./docs/link.md#内部链接)
 > 7. [图片](./docs/image.md)
 > 8. [表格](./docs/table.md)
-> 9. [任务列表](./docs/task.md)
+> 9. [GFM任务列表](./docs/task.md)
+> 10. [GFM表情](./docs/emoji.md)
