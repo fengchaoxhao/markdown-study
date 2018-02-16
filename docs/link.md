@@ -43,3 +43,8 @@
 <!-- 下面是引用链接地址，一处定义多处引用 -->
 [百度]: https://www.baidu.com "百度"
 [baidu]: https://www.baidu.com "百度"
+
+## 图片链接 ##
+[
+![百度](https://www.baidu.com/img/baidu_jgylogo3.gif "百度")
+](http://wwww.baidu.com "百度")
